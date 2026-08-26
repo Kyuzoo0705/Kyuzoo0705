@@ -90,19 +90,6 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 </p>
 
 <p align="center">
-  <b>⌨️ Code • 🧠 Learn • ⚙️ Build • 🚀 Grow</b>
-</p>
-
-<p align="center">
-  <i>Just getting started.</i>
-</p>  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
   <b>⌨️ Code • 🐧 Linux • 🧠 Learn • 🚀 Build</b>
 </p>
 
