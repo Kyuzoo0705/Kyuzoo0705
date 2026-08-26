@@ -103,33 +103,31 @@ I'm currently focused on learning the fundamentals, building projects, and disco
   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+one+step+at+a+time.;Building+projects+along+the+way.;The+future+starts+with+what+I+learn+today." />
 </p>
 
-👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center">
-  <b>⌨️ Code • 🐧 Linux • 🧠 Learn • 🚀 Build</b>
-</p>
-
-<p align="center">
-  <i>「Keep building. Keep learning.」</i>
 </p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
 </p>
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyuzoo0705&hide_border=true" />
 </p>
 
-🌐 Connect
+## 🌐 Connect
 
 <p>
   <a href="https://github.com/Kyuzoo0705">
     <img src="https://img.shields.io/badge/GitHub-Kyuzoo0705-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <b>⌨️ Code • 🐧 Linux • 🧠 Learn • 🚀 Build</b>
 </p>
 
 <p align="center">
