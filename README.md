@@ -1,34 +1,103 @@
-# Hey, I'm Kyuzoo 👋
+👋 Hey, I'm Jstn.dev
 
-I'm a developer interested in mobile development, Linux, and tooling.
+Building things, breaking things, and learning how they work.
 
-## 🛠️ Tech Stack
+I'm a developer who enjoys mobile development, Linux, developer tooling, and experimenting with new technologies.
 
-### Languages
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+🛠️ Tech Stack
 
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Languages
 
-### Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+<p>
+  <img src="https://xandemon.github.io/developer-icons/icons/Dart.svg" width="48" title="Dart" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Python.svg" width="48" title="Python" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Java.svg" width="48" title="Java" />
+  <img src="https://xandemon.github.io/developer-icons/icons/JavaScript.svg" width="48" title="JavaScript" />
+  <img src="https://xandemon.github.io/developer-icons/icons/HTML5.svg" width="48" title="HTML5" />
+  <img src="https://xandemon.github.io/developer-icons/icons/CSS3.svg" width="48" title="CSS3" />
+</p>
 
-## 📌 Projects
+Frameworks & Runtime
 
-- 📱 Flutter apps
-- 🛠️ Developer tools
-- 🐧 Linux/Termux projects
+<p>
+  <img src="https://xandemon.github.io/developer-icons/icons/Flutter.svg" width="48" title="Flutter" />
+  <img src="https://xandemon.github.io/developer-icons/icons/React.svg" width="48" title="React" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Node.js.svg" width="48" title="Node.js" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Vite.svg" width="48" title="Vite" />
+</p>
 
-## 📫 Contact
+Tools & Environment
 
-- GitHub: [@Kyuzoo0705](https://github.com/Kyuzoo0705)
+<p>
+  <img src="https://xandemon.github.io/developer-icons/icons/Linux.svg" width="48" title="Linux" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Debian.svg" width="48" title="Debian" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Neovim.svg" width="48" title="Neovim" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Git.svg" width="48" title="Git" />
+  <img src="https://xandemon.github.io/developer-icons/icons/GitHub.svg" width="48" title="GitHub" />
+  <img src="https://xandemon.github.io/developer-icons/icons/Visual Studio Code.svg" width="48" title="VS Code" />
+</p>
+
+🚀 What I Build
+
+📱 Mobile applications with Flutter
+
+🧰 Developer tools and utilities
+
+🐧 Linux / Termux experiments
+
+🌐 Web applications with modern JavaScript tooling
+
+🤖 Projects involving AI and developer automation
+
+📌 Featured Projects
+
+Project
+
+Description
+
+📱 Flutter Projects
+
+Mobile applications and UI experiments
+
+🧩 Developer Tools
+
+Tools designed to make development easier
+
+🐧 Linux / Termux
+
+Development environments and experiments on Android
+
+🧑‍💻 Current Environment
+
+OS          → Android / Linux
+Terminal    → Termux
+Distro      → Debian
+Editor      → Neovim
+Languages   → Dart · Python · Java · JavaScript
+Frameworks  → Flutter · React
+Tools       → Git · GitHub · Vite · Node.js
+
+📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyuzoo0705&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyuzoo0705&hide_border=true" />
+</p>
+
+🌐 Connect
+
+<p>
+  <a href="https://github.com/Kyuzoo0705">
+    <img src="https://img.shields.io/badge/GitHub-Kyuzoo0705-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>「Keep building. Keep learning.」</i>
+</p>
