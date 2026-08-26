@@ -12,7 +12,7 @@ I'm a first-year student exploring the world of programming and software develop
 
 I'm currently focused on learning the fundamentals, building projects, and discovering the areas of development I enjoy most.
 
-🎯 Future Goals
+## 🎯 Future Goals
 
 🌐 Become a Full-Stack Developer
 
