@@ -80,7 +80,7 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+one+step+at+a+time.;Building+projects+along+the+way.;The+future+starts+with+what+I+learn+today." />
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+one+step+at+a+time.;Building+projects+along+the+way.;The+future+starts+with+what+I+learn+today." />
 </p>
 
 👀 Profile Views
