@@ -1,87 +1,114 @@
-👋 Hey, I'm Jstn.dev
+👋 Hey, I'm Kyuzoo
 
-Building things, breaking things, and learning how they work.
+<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Bold&size=27&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=First-Year+IT+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer;Aspiring+App+Developer;Always+Learning+%F0%9F%9A%80" /> </p>
 
-I'm a developer who enjoys mobile development, Linux, developer tooling, and experimenting with new technologies.
-
-🛠️ Tech Stack
-
-Languages
-
-<p>
-  <img src="https://xandemon.github.io/developer-icons/icons/Dart.svg" width="48" title="Dart" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Python.svg" width="48" title="Python" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Java.svg" width="48" title="Java" />
-  <img src="https://xandemon.github.io/developer-icons/icons/JavaScript.svg" width="48" title="JavaScript" />
-  <img src="https://xandemon.github.io/developer-icons/icons/HTML5.svg" width="48" title="HTML5" />
-  <img src="https://xandemon.github.io/developer-icons/icons/CSS3.svg" width="48" title="CSS3" />
+<p align="center">
+  <b>Learning today. Building for tomorrow.</b>
 </p>
 
-Frameworks & Runtime
+🧑‍💻 About Me
 
-<p>
-  <img src="https://xandemon.github.io/developer-icons/icons/Flutter.svg" width="48" title="Flutter" />
-  <img src="https://xandemon.github.io/developer-icons/icons/React.svg" width="48" title="React" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Node.js.svg" width="48" title="Node.js" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Vite.svg" width="48" title="Vite" />
+I'm a first-year student exploring the world of programming and software development.
+
+I'm currently focused on learning the fundamentals, building projects, and discovering the areas of development I enjoy most.
+
+🎯 Future Goals
+
+🌐 Become a Full-Stack Developer
+
+⚙️ Grow into a Software Engineer
+
+📱 Build useful and creative Applications
+
+🧠 Strengthen my programming and computer science fundamentals
+
+🚀 Keep learning and building throughout my journey
+
+💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash" />
 </p>
 
-Tools & Environment
+🛠️ Tools & Editors
 
-<p>
-  <img src="https://xandemon.github.io/developer-icons/icons/Linux.svg" width="48" title="Linux" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Debian.svg" width="48" title="Debian" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Neovim.svg" width="48" title="Neovim" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Git.svg" width="48" title="Git" />
-  <img src="https://xandemon.github.io/developer-icons/icons/GitHub.svg" width="48" title="GitHub" />
-  <img src="https://xandemon.github.io/developer-icons/icons/Visual Studio Code.svg" width="48" title="VS Code" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
 </p>
 
-🚀 What I Build
+🐧 Environment
 
-📱 Mobile applications with Flutter
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,termux" />
+</p>
 
-🧰 Developer tools and utilities
+🌐 Platforms
 
-🐧 Linux / Termux experiments
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
-🌐 Web applications with modern JavaScript tooling
-
-🤖 Projects involving AI and developer automation
-
-📌 Featured Projects
-
-Project
-
-Description
-
-📱 Flutter Projects
-
-Mobile applications and UI experiments
-
-🧩 Developer Tools
-
-Tools designed to make development easier
-
-🐧 Linux / Termux
-
-Development environments and experiments on Android
-
-🧑‍💻 Current Environment
-
-OS          → Android / Linux
-Terminal    → Termux
-Distro      → Debian
-Editor      → Neovim
-Languages   → Dart · Python · Java · JavaScript
-Frameworks  → Flutter · React
-Tools       → Git · GitHub · Vite · Node.js
-
-📊 GitHub
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyuzoo0705&show_icons=true&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
+</p>
+
+🚀 My Journey
+
+<p align="center">
+
+🎓 First-Year Student
+
+↓
+
+💻 Learning & Building
+
+↓
+
+🌐 Full-Stack Developer
+
+↓
+
+⚙️ Software Engineer
+
+↓
+
+📱 App Developer
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+one+step+at+a+time.;Building+projects+along+the+way.;The+future+starts+with+what+I+learn+today." />
+</p>
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <b>⌨️ Code • 🧠 Learn • ⚙️ Build • 🚀 Grow</b>
+</p>
+
+<p align="center">
+  <i>Just getting started.</i>
+</p>  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <b>⌨️ Code • 🐧 Linux • 🧠 Learn • 🚀 Build</b>
+</p>
+
+<p align="center">
+  <i>「Keep building. Keep learning.」</i>
+</p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
 </p>
 
 📈 Contribution Graph
