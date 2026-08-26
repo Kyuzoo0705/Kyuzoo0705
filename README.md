@@ -24,38 +24,58 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 
 🚀 Keep learning and building throughout my journey
 
-💻 Languages
+## 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash" />
 </p>
 
-🛠️ Tools & Editors
+## 🛠️ Tools & Editors
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
 </p>
 
-🐧 Environment
+## 🐧 Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,termux" />
 </p>
 
-🌐 Platforms
+## 🌐 Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyuzoo0705&show_icons=true&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
 </p>
 
-🚀 My Journey
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyuzoo0705&theme=github_dark"
+    height="165"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyuzoo0705&theme=github_dark"
+    height="165"
+  />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyuzoo0705&theme=github_dark"
+    width="95%"
+  />
+</p>
+
+## 🚀 My Journey
 
 <p align="center">
 
