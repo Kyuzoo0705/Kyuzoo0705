@@ -1,111 +1,90 @@
-👋 Hey, I am Kyuzoo
+# Hi, I am Kyuzoo 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Bold&size=27&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=First-Year+IT+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer;Aspiring+App+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=680&lines=First-Year+IT+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer;Aspiring+App+Builder;Learning+Every+Single+Day" />
 </p>
 
 <p align="center">
-  <b>Learning today. Building for tomorrow.</b>
+  <b>Learning today. Building for tomorrow.</b><br />
+  First year in IT. Focused on foundations. Moving toward full stack.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a first year IT student with a strong interest in programming and software creation.
+I am Kyuzoo, a first year IT student who loves understanding how software works from the inside out.
 
-Right now my work is centered on fundamentals, small builds, and steady progress toward full stack development.
+My days are built around study, practice, and small builds that turn lessons into skill.
 
-- 🌱 Currently learning core programming and computer science basics
-- 🛠️ Building small projects to apply each new skill
-- 🎯 Aim: Full Stack Developer, Software Engineer, App Developer
-- 📚 Principle: steady study, daily practice, constant curiosity
+- 📘 Studying programming fundamentals and computer science basics
+- 💻 Practicing with HTML, CSS, JavaScript, Java, Python and Bash
+- 🐧 Living in Linux and learning the terminal way
+- 📝 Taking notes and building systems in Obsidian with Neovim
+- 🎯 Working toward full stack development and software engineering
 
-## 🎯 Where I Am Headed
+## 🎯 Goals
 
-- 🌐 Full Stack Development with modern web tools
-- ⚙️ Software Engineering with clean structure and sound design
-- 📱 Creative and useful applications for real needs
-- 🧠 Solid grounding in logic, data, and problem solving
-- 🚀 Growth through building in public and learning without pause
+- [x] Master the fundamentals of programming and problem solving
+- [ ] Ship small web projects with clean structure
+- [ ] Grow into a Full Stack Developer
+- [ ] Grow into a Software Engineer
+- [ ] Build useful and creative apps used by real people
+- [ ] Learn in public and keep a steady building habit
 
-## 💻 Stack I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash" />
-</p>
-
-## 🛠️ Workspace
+## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
-</p>
-
-## 🐧 System
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-## 🌐 Home Base
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-## 📊 Language Mix
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyuzoo0705&theme=github_dark"
-    height="165"
-  />
-</p>
-
-## 📈 Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyuzoo0705&theme=github_dark"
-    width="95%"
-  />
-</p>
-
-## 🚀 The Path
-
-<p align="center">
-
-🎓 First Year Student
-
-↓
-
-💻 Study and Build
-
-↓
-
-🌐 Full Stack Developer
-
-↓
-
-⚙️ Software Engineer
-
-↓
-
-📱 App Developer
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash,git,github,linux,neovim,obsidian,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Step+by+step+every+day.;Project+by+project+forward.;Today+study+tomorrow+build." />
+  <img src="https://img.shields.io/badge/Focus-Fundamentals-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Practice-Daily-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Full_Stack-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/System-Linux-black?style=flat-square&logo=linux" />
 </p>
 
-## 👀 Visitors
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyuzoo0705&theme=github_dark" width="95%" />
 </p>
 
-## 🌐 Reach Me
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyuzoo0705&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kyuzoo0705&theme=github_dark" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kyuzoo0705&theme=github-dark-blue&hide_border=true" />
+</p>
+
+## 🚀 My Journey
+
+<p align="center">
+  <b>🎓 First Year Student</b><br />
+  ↓<br />
+  <b>💻 Learning and Building</b><br />
+  ↓<br />
+  <b>🌐 Full Stack Developer</b><br />
+  ↓<br />
+  <b>⚙️ Software Engineer</b><br />
+  ↓<br />
+  <b>📱 App Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=620&lines=One+concept+at+a+time.;One+project+at+a+time.;What+I+learn+today+builds+tomorrow." />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views&color=blue" />
+</p>
+
+## 🌐 Connect
 
 <p>
   <a href="https://github.com/Kyuzoo0705">
@@ -114,7 +93,7 @@ Right now my work is centered on fundamentals, small builds, and steady progress
 </p>
 
 <p align="center">
-  <b>Code · Linux · Learn · Build</b>
+  <b>Code. Linux. Learn. Build.</b>
 </p>
 
 <p align="center">
