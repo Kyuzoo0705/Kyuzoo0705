@@ -39,7 +39,7 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 ## 🐧 Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,termux" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ## 🌐 Platforms
@@ -48,18 +48,8 @@ I'm currently focused on learning the fundamentals, building projects, and disco
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-## 📊 GitHub Stats
+## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyuzoo0705&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kyuzoo0705&theme=github_dark"
-    height="165"
-  />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyuzoo0705&theme=github_dark"
     height="165"
@@ -107,15 +97,6 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
-</p>
-
-</p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuzoo0705&layout=compact&hide_border=true" height="165" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyuzoo0705&hide_border=true" />
 </p>
 
 ## 🌐 Connect
