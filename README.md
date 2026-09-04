@@ -34,8 +34,34 @@ My days are built around study, practice, and small builds that turn lessons int
 
 ## 💻 Languages and Tools
 
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash,git,github,linux,neovim,obsidian,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend and General Purpose
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### Scripting and Terminal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+
+### Version Control and Platform
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### Environment and System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### Editors and Notes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,obsidian" />
 </p>
 
 <p align="center">
