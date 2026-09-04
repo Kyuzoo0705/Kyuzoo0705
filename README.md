@@ -1,62 +1,68 @@
-👋 Hey, I'm Kyuzoo
+👋 Hey, I am Kyuzoo
 
-<p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Bold&size=27&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=First-Year+IT+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer;Aspiring+App+Developer;Always+Learning+%F0%9F%9A%80" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+Bold&size=27&duration=2800&pause=1000&center=true&vCenter=true&width=650&lines=First-Year+IT+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer;Aspiring+App+Developer;Always+Learning" />
+</p>
 
 <p align="center">
   <b>Learning today. Building for tomorrow.</b>
 </p>
 
-🧑‍💻 About Me
+---
 
-I'm a first-year student exploring the world of programming and software development.
+## 🧑‍💻 About Me
 
-I'm currently focused on learning the fundamentals, building projects, and discovering the areas of development I enjoy most.
+I am a first year IT student with a strong interest in programming and software creation.
 
-## 🎯 Future Goals
+Right now my work is centered on fundamentals, small builds, and steady progress toward full stack development.
 
-🌐 Become a Full-Stack Developer
+- 🌱 Currently learning core programming and computer science basics
+- 🛠️ Building small projects to apply each new skill
+- 🎯 Aim: Full Stack Developer, Software Engineer, App Developer
+- 📚 Principle: steady study, daily practice, constant curiosity
 
-⚙️ Grow into a Software Engineer
+## 🎯 Where I Am Headed
 
-📱 Build useful and creative Applications
+- 🌐 Full Stack Development with modern web tools
+- ⚙️ Software Engineering with clean structure and sound design
+- 📱 Creative and useful applications for real needs
+- 🧠 Solid grounding in logic, data, and problem solving
+- 🚀 Growth through building in public and learning without pause
 
-🧠 Strengthen my programming and computer science fundamentals
-
-🚀 Keep learning and building throughout my journey
-
-## 💻 Languages
+## 💻 Stack I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash" />
 </p>
 
-## 🛠️ Tools & Editors
+## 🛠️ Workspace
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=neovim,obsidian" />
 </p>
 
-## 🐧 Environment
+## 🐧 System
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-## 🌐 Platforms
+## 🌐 Home Base
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-## Github Stats
+## 📊 Language Mix
 
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kyuzoo0705&theme=github_dark"
     height="165"
   />
 </p>
 
-## 📈 Contribution Activity
+## 📈 Activity
 
 <p align="center">
   <img
@@ -65,19 +71,19 @@ I'm currently focused on learning the fundamentals, building projects, and disco
   />
 </p>
 
-## 🚀 My Journey
+## 🚀 The Path
 
 <p align="center">
 
-🎓 First-Year Student
+🎓 First Year Student
 
 ↓
 
-💻 Learning & Building
+💻 Study and Build
 
 ↓
 
-🌐 Full-Stack Developer
+🌐 Full Stack Developer
 
 ↓
 
@@ -90,16 +96,16 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Learning+one+step+at+a+time.;Building+projects+along+the+way.;The+future+starts+with+what+I+learn+today." />
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=600&lines=Step+by+step+every+day.;Project+by+project+forward.;Today+study+tomorrow+build." />
 </p>
 
-## 👀 Profile Views
+## 👀 Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kyuzoo0705&style=flat-square&label=Profile+Views" />
 </p>
 
-## 🌐 Connect
+## 🌐 Reach Me
 
 <p>
   <a href="https://github.com/Kyuzoo0705">
@@ -108,9 +114,9 @@ I'm currently focused on learning the fundamentals, building projects, and disco
 </p>
 
 <p align="center">
-  <b>⌨️ Code • 🐧 Linux • 🧠 Learn • 🚀 Build</b>
+  <b>Code · Linux · Learn · Build</b>
 </p>
 
 <p align="center">
-  <i>「Keep building. Keep learning.」</i>
+  <i>Keep building. Keep learning.</i>
 </p>
